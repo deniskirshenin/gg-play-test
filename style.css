@@ -3,7 +3,7 @@
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    src: url('../fonts/Roboto-v30-cyrillic-ext-regular.woff2') format('woff2');
+    src: url('../fonts/roboto-v30-cyrillic-ext-regular.woff2') format('woff2');
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 300;
-  src: url('../fonts/Roboto-v30-cyrillic-ext-300.woff2') format('woff2');
+  src: url('../fonts/roboto-v30-cyrillic-ext-300.woff2') format('woff2');
 }
 
 @font-face {
@@ -19,7 +19,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 900;
-  src: url('../fonts/Roboto-v30-cyrillic-ext-900.woff2') format('woff2');
+  src: url('../fonts/roboto-v30-cyrillic-ext-900.woff2') format('woff2');
 }
 
 @font-face {
